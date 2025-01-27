@@ -44,7 +44,7 @@ categories: jekyll update
 2025.01.27 于南京富士通
 
 ## 往期回顾
-* [2023](/life-essays/jekyll/update/2024/02/28/2023.html)
+* [2023](/life-essays/jekyll/update/2024/02/05/2023.html)
 * [2022](/life-essays/jekyll/update/2022/12/29/2022.html)
 * [2021](/life-essays/jekyll/update/2022/01/01/2021.html)
 * [2020](/life-essays/jekyll/update/2021/01/05/2020.html)
