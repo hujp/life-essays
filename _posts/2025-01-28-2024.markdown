@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2024"
-date:   2025-01-27 10:08:50 +0800
+date:   2025-01-28 10:08:50 +0800
 categories: jekyll update
 ---
 
