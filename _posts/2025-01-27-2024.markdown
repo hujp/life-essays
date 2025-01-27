@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "2024"
+date:   2025-01-27 10:49:50 +0800
+categories: jekyll update
+---
+
+今年的总结为什么和以前不一样了？ [3040](/life-essays/jekyll/update/2025/01/27/3040.html)
+
+## 阅读
+### 计划看而未看完的书
+* [2021] Effective C++: 改善程序与设计的 55 个具体做法
+* [2021] 奔跑吧 Linux 内核
+* [2021] 重构 改善既有代码的设计
+* [2021] labuladong 的算法小抄
+* [2021] openEuler 操作系统
+* [2022] TCP/IP入门经典
+* [2022] 少有人走的路
+* [2022] 0day安全
+* [2023] Redis设计与实现
+* [2023] AWS Certified SysOps Administrator：Associate Guide
+* [2023] AWS Certified Security：Specialty Exam Guide
+* [2023] AWS Certified Advanced Networking：Specialty Exam Guide
+* [2023] 三体（全集）
+* [2023] Serverless架构：无服务器应用与AWS Lambda
+* [2024] JavaScript 高级程序设计（第 3 版）
+* [2024] 约翰·克里斯朵夫（全 4 册）
+* [2024] 十八岁出门远行
+* [2024] 许三观卖血记
+* [2024] UNIX 编程艺术
+
+### 今年看完的书
+* 五代十国全史 Ⅷ
+* C# 7.0核心技术指南（原书第 7 版）
+* 透明的红萝卜
+* GPT 时代人类再腾飞
+
+## 新年愿望
+* 希望和孩子一起沉浸一项运动，比如篮球或者羽毛球等
+* 希望和家人一起进行轻松自由的旅行
+
+
+（完）
+2025.01.27 于南京富士通
+
+## 往期回顾
+* [2023](/life-essays/jekyll/update/2024/02/28/2023.html)
+* [2022](/life-essays/jekyll/update/2022/12/29/2022.html)
+* [2021](/life-essays/jekyll/update/2022/01/01/2021.html)
+* [2020](/life-essays/jekyll/update/2021/01/05/2020.html)
+* 2019
